@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|e:\\youtube_videos\\qa\\automation testing\\testproject\\sampleprojectforgit\\swaglabsampleproject\\swaglabsampleproject\\unittests\\testyourcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|solutionrelative:swaglabsampleproject\\unittests\\testyourcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|e:\\youtube_videos\\qa\\automation testing\\testproject\\sampleprojectforgit\\swaglabsampleproject\\swaglabsampleproject\\unittests\\testuserloggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|solutionrelative:swaglabsampleproject\\unittests\\testuserloggin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|e:\\youtube_videos\\qa\\automation testing\\testproject\\sampleprojectforgit\\swaglabsampleproject\\swaglabsampleproject\\unittests\\testproductspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|solutionrelative:swaglabsampleproject\\unittests\\testproductspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|e:\\youtube_videos\\qa\\automation testing\\testproject\\sampleprojectforgit\\swaglabsampleproject\\swaglabsampleproject\\unittests\\testcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|solutionrelative:swaglabsampleproject\\unittests\\testcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|e:\\youtube_videos\\qa\\automation testing\\testproject\\sampleprojectforgit\\swaglabsampleproject\\swaglabsampleproject\\pom\\userlogginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C36F34F-BBD9-4F9C-87BB-07482A141B20}|SwagLabSampleProject\\SwagLabSampleProject.csproj|solutionrelative:swaglabsampleproject\\pom\\userlogginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestYourCart.cs",
+              "DocumentMoniker": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestYourCart.cs",
+              "RelativeDocumentMoniker": "SwagLabSampleProject\\UnitTests\\TestYourCart.cs",
+              "ToolTip": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestYourCart.cs",
+              "RelativeToolTip": "SwagLabSampleProject\\UnitTests\\TestYourCart.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:26:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProductsPage.cs",
+              "DocumentMoniker": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestProductsPage.cs",
+              "RelativeDocumentMoniker": "SwagLabSampleProject\\UnitTests\\TestProductsPage.cs",
+              "ToolTip": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestProductsPage.cs",
+              "RelativeToolTip": "SwagLabSampleProject\\UnitTests\\TestProductsPage.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:25:45.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCheckout.cs",
+              "DocumentMoniker": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestCheckout.cs",
+              "RelativeDocumentMoniker": "SwagLabSampleProject\\UnitTests\\TestCheckout.cs",
+              "ToolTip": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestCheckout.cs",
+              "RelativeToolTip": "SwagLabSampleProject\\UnitTests\\TestCheckout.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:25:30.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLogginPage.cs",
+              "DocumentMoniker": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\POM\\UserLogginPage.cs",
+              "RelativeDocumentMoniker": "SwagLabSampleProject\\POM\\UserLogginPage.cs",
+              "ToolTip": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\POM\\UserLogginPage.cs",
+              "RelativeToolTip": "SwagLabSampleProject\\POM\\UserLogginPage.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:24:11.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestUserLoggin.cs",
+              "DocumentMoniker": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestUserLoggin.cs",
+              "RelativeDocumentMoniker": "SwagLabSampleProject\\UnitTests\\TestUserLoggin.cs",
+              "ToolTip": "E:\\Youtube_Videos\\QA\\Automation Testing\\TestProject\\SampleProjectForGit\\SwagLabSampleProject\\SwagLabSampleProject\\UnitTests\\TestUserLoggin.cs",
+              "RelativeToolTip": "SwagLabSampleProject\\UnitTests\\TestUserLoggin.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:23:01.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
